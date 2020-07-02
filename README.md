@@ -2,9 +2,14 @@
 
 For example, given [9, 11, 8, 5, 7, 10], you should return 5, since you could buy the stock at 5 dollars and sell it at 10 dollars.
 
+----
 
 **TO RUN SPEC:**
+
 _rspec spec/main_spec.rb_
 
+----
+
 **TO RUN EXAMPLES:**
+
 _ruby examples/example1.rb_
